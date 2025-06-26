@@ -1,2 +1,2 @@
-# valid-triangle
-Program for checking valid triangle and finding its area.
+# About my Valid Triangle program
+This is my simple program for checking a valid triangle and calculating its area, written in C++. It continuously asks the user to input three side lengths less than the limit I chose, 500.0, until the inputs are all valid lengths and saves them as doubles into the variables a, b, and c. It then compares these side lengths to check if they all create a valid triangle. Lastly, if a valid triangle, the program then calculates the area of this triangle and outputs a message with all of the final details. 
